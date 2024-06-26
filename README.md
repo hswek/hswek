@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hswek)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hswek)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hswek)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hswek)](https://solved.ac/hswek/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
